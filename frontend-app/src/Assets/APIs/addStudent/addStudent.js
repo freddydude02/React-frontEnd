@@ -10,7 +10,7 @@ const addStudent = async (fullName, cohort) => {
     };
     try {
         const response = await fetch(
-            "http://firstspring-env.eba-rum5wjtm.ap-southeast-2.elasticbeanstalk.com/students",
+            "http://backend-env.eba-d2upmfg3.ap-southeast-2.elasticbeanstalk.com/students",
             {
                 method: "POST",
                 headers: {
