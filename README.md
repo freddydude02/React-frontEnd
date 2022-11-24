@@ -1,4 +1,4 @@
-# Student-Resourcing Front-End
+# Student-Resourcing Front-End-App
 
 **Description of project:** </br>
 A react app that is made for the spring student resourcing API at the link below. This project was also used to learn my first deployment using AWS s3 <a>
