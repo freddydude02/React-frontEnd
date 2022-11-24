@@ -1,14 +1,19 @@
 # Student-Resourcing Front-End-App
 
 **Description of project:** </br>
-A react app that is made for the spring student resourcing API at the link below. This project was also used to learn my first deployment using AWS s3 <a>
+This project was also used to learn my first deployment using AWS s3. It is also the front-end component to a backend Spring Boot app linked below.</br>
+<a>
 https://github.com/freddydude02/Student-Resourcing-API
 </a>  
 </br>
 **Setup:** </br>
--clone repo and run
+- clone repo
+- navigate to inner most folder "frontend-app"
+- open in VS Code
+- "npm start" in console
 
-note: note the frontend buttons will not be operational as it is only the front-end component to the backend Spring app that needs to be deployed as well to use it's functions
+Note:</br>
+The buttons will not be operational. To use it, navigate to the Student-Resourcing-API linked at the top and set it up before proceeding. </br>
 
 **Approach / Design Goals:** </br>
 The approach was to create a small app that can utilise Spring student resoucing API while deployed on s3 which means
